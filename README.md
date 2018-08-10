@@ -1,3 +1,5 @@
+This repository has been moved to <https://github.com/iij-ii/direct-hs/tree/master/wss-client>.
+
 # wss-client
 
 A-little-higher-level WebSocket client library.  
